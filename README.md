@@ -19,8 +19,8 @@ var double = funcion(s) {
 //用法一
 
 data
-	._pie(getMax)
-	._pie(double) // 20
+  ._pie(getMax)
+  ._pie(double) // 20
 
 //用法二
 
