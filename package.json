@@ -1,0 +1,23 @@
+{
+  "name": "pipe.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wleonardo/pipe.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wleonardo/pipe.js/issues"
+  },
+  "homepage": "https://github.com/wleonardo/pipe.js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5"
+  }
+}
